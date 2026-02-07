@@ -543,7 +543,7 @@
     {
       "name": "Тренировка контроля отдачи",
       "description": "Упражнения для стабильного спрея",
-      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/recoil.png",
+      "imageUrl": "https://raw.githubusercontent.com/soufianelh2022/standoff/main/aimbot.PNG",
       "category": "Тренировка",
       "fullDesc": "Набор ежедневных упражнений (5–10 минут) для контроля отдачи: короткие очереди, перевод цели, дисциплина по таймингу.",
       "downloadUrl": "https://example.com/guide/recoil-training",
@@ -554,7 +554,7 @@
     {
       "name": "Гайд по экономике раундов",
       "description": "Что покупать и когда",
-      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/economy.png",
+      "imageUrl": "https://raw.githubusercontent.com/soufianelh2022/standoff/main/economy.PNG",
       "category": "Гайды",
       "fullDesc": "Понятные правила закупа: эко, форс, полу-бай, фулл-бай. Помогает играть умнее и стабильнее.",
       "downloadUrl": "https://example.com/guide/economy",
@@ -565,7 +565,7 @@
     {
       "name": "Сборки прицела (Crosshair)",
       "description": "Подборки настроек прицела",
-      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/crosshair.png",
+      "imageUrl": "https://raw.githubusercontent.com/soufianelh2022/standoff/main/pro%20crosshair.PNG",
       "category": "Настройки",
       "fullDesc": "Коллекция пресетов прицела для разных стилей: агрессия, контроль, дальняя дистанция.",
       "downloadUrl": "https://example.com/guide/crosshair",
@@ -576,7 +576,7 @@
     {
       "name": "Чувствительность и DPI",
       "description": "Таблица перевода сенсы",
-      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/sens.png",
+      "imageUrl": "https://raw.githubusercontent.com/soufianelh2022/standoff/main/custom.PNG",
       "category": "Настройки",
       "fullDesc": "Помогает подобрать комфортную чувствительность: тесты, рекомендации и шаблоны для разных типов игры.",
       "downloadUrl": "https://example.com/guide/sensitivity",
@@ -587,7 +587,7 @@
     {
       "name": "Позиции и коллауты (карты)",
       "description": "Названия точек и позиции",
-      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/callouts.png",
+      "imageUrl": "https://raw.githubusercontent.com/soufianelh2022/standoff/main/radar%20hack.PNG",
       "category": "Карты",
       "fullDesc": "Удобные подсказки по позициям и стандартным коллам, чтобы быстрее понимать команду и играть по плану.",
       "downloadUrl": "https://example.com/guide/callouts",
@@ -598,18 +598,18 @@
     {
       "name": "Разминка 7 минут",
       "description": "Быстрый прогрев перед каткой",
-      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/warmup.png",
+      "imageUrl": "https://raw.githubusercontent.com/soufianelh2022/standoff/main/skin%20changer.PNG",
       "category": "Тренировка",
       "fullDesc": "Короткая программа разминки: реакция, точность, контроль. Помогает входить в игру без тильта.",
       "downloadUrl": "https://example.com/guide/warmup",
       "size": "—",
       "version": "1.0",
-      "hasBadge": false
+      "hasBadge": true
     },
     {
       "name": "Плейбук раундов",
       "description": "Мини-стратегии и тайминги",
-      "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/playbook.png",
+      "imageUrl": "https://raw.githubusercontent.com/soufianelh2022/standoff/main/wallck.PNG",
       "category": "Стратегии",
       "fullDesc": "Набор простых планов на раунд: выходы, фейки, ретейк. Без читов — только тактика.",
       "downloadUrl": "https://example.com/guide/playbook",
