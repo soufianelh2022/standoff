@@ -2,7 +2,7 @@
   "ads": {
     "ShowAds": true,
     "ShowLoadingAds": true,
-    "ClickCount": 1,
+    "ClickCount": 3,
     
     "PriorityBanner": "yandex",
     "priorityInterstitial": "yandex",
