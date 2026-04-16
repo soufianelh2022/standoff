@@ -11,15 +11,15 @@
     "PriorityReward": "yandex",
 
     "yandex_banner": "R-M-18736493-1",
-    "yandex_banner_2": "",
+    "yandex_banner_2": "R-M-18736493-8",
     "yandex_banner_3": "",
 
     "yandex_native": "R-M-18736493-2",
-    "yandex_native_2": "",
+    "yandex_native_2": "R-M-18736493-7",
     "yandex_native_3": "",
 
     "yandex_inter": "R-M-18736493-3",
-    "yandex_inter_2": "",
+    "yandex_inter_2": "R-M-18736493-6",
     "yandex_inter_3": "",
 
     "openadyandex": "R-M-18736493-5",
@@ -27,7 +27,7 @@
     "openadyandex_3": "",
 
     "yandex_reward": "R-M-18736493-4",
-    "yandex_reward_2": "",
+    "yandex_reward_2": "R-M-18736493-9",
     "yandex_reward_3": "",
 
     "MaxBanner": "101f0abf74b73319",
